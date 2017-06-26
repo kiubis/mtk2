@@ -10,7 +10,7 @@ double srednia (int *tab, int n);
 int main(){
 cout << "Autorem programu jest xxx ddd" << endl;
 
-// zadeklarowanie zmiennej do ilosci licz
+// zadeklarowanie zmiennej do ilosci liczb
 int n = 0;
 
 cout << "Podaj ilosc liczb: ";
