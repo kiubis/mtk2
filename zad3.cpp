@@ -29,6 +29,7 @@ cout << "Srednia geometryczna wynosi: "<<wynik << endl;
 
 delete []tab; 		// usuniecie wczesniej stworzonej tablicy (wymagane jak cos tworzysz operatorem new)
 
+return 0
 }
 
 double srednia(int *tab, int n){
