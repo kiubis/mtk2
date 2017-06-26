@@ -49,7 +49,7 @@ case 0:												// 0 to ...
 	cout << a <<"+"<<b<<"="<<losowa<<"?" << endl;	// cout czesci od dodawania
 	break;
 case 1:												// to ...
-	cout << a <<"-"<<b<<"="<<losowa<<"?" << endl;	// cout czesci
+	cout << a <<"-"<<b<<"="<<losowa<<"?" << endl;	// cout czesci od odejmowania
 	break;
 }
 
